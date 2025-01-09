@@ -47,7 +47,7 @@ The **Interactive SEIR Model** is a dynamic simulation tool for understanding th
 Install dependencies using:
 ```bash
 pip install numpy matplotlib scipy ipywidgets
-
+```
 ## How to Run
 
 ### Setup Environment:
