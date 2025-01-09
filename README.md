@@ -31,7 +31,7 @@ The **Interactive SEIR Model** is a dynamic simulation tool for understanding th
   - Functions for interactive parameter adjustments and result plotting.
   - Example simulations to demonstrate the model's capabilities.
 
-### 2. `Interactive_SEIR_Model_-_Report_1.pdf`
+### 2. `Dynamic Interactions in Epidemic Modeling An Interactive SEIR Model.pdf`
 - A detailed report documenting:
   - The mathematical background of the SEIR model.
   - Evaluation of scenarios and their outcomes.
