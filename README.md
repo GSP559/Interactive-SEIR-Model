@@ -50,13 +50,13 @@ pip install numpy matplotlib scipy ipywidgets
 ```
 ## How to Run
 
-1. Setup Environment:
+### 1. Setup Environment:
 - Ensure **Python 3.x** and **Jupyter Notebook** are installed.
 - Install the required Python libraries
-2. Run the Notebook:
+### 2. Run the Notebook:
   - Open the **SEIR.ipynb** file in Jupyter Notebook.
   - Execute the cells sequentially to initialize the model and begin simulations.
-3. Interact with the Model:
+### 3. Interact with the Model:
 - Use the provided sliders and inputs to adjust parameters like transmission rate, recovery rate, and population size.
 - Observe the impact of changes on the epidemic's progression through real-time plots.
    
